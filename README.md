@@ -5,6 +5,8 @@ round out values for hstab sparring
 Rounded out hinge rudder and elevator (tangent circle to the edges)
 half cut the spar in hstab and meet in middle.
 
+design vspar-hspar junction
+    run fea on straight vs tapered
 
 readjust rudder chord to balance the area of the old one
 
