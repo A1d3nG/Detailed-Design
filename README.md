@@ -8,12 +8,9 @@ half cut the spar in hstab and meet in middle.
 design vspar-hspar junction
     run fea on straight vs tapered
 
-readjust rudder chord to balance the area of the old one
-
 Hstab to Vstab integration.
 
 FEA analyze short & straight front spar to long and angled spar
 
-T tail bracket
 
 
